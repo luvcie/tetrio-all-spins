@@ -93,4 +93,7 @@ In Tetra League, a Mini Spin Single has 0 base attack and normally adds 1 line i
 | ×3 to ×4 | 1 line | Starts at 4 lines |
 | ×7 to ×8 | 1 line | Adds 1 line, bringing the total to 8 |
 
+Here's an example, accumulating B2B and releasing the surge:\
+[fernflar, B2B preservation over survival](https://www.youtube.com/watch?v=Fmmy_NGuWaw)
+
 [TETR.IO Wiki: Spins](https://tetrio.wiki.gg/wiki/Spins) · [Back-to-Back Charging](https://tetris.wiki/TETR.IO#Back-to-Back_Charging)
